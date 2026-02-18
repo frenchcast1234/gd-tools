@@ -1,7 +1,7 @@
 extends Node
 class_name LocalStorage
 
-const PATH := "user://save.json"; #Change the path as you want
+const PATH := "user://save.json"; 
 
 var _data: Dictionary = {};
 
